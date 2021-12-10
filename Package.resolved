@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SnapKit",
+        "repositoryURL": "git@github.com:SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "SPMTest1",
+        "repositoryURL": "git@github.com:kapitoshka438/SPMTest1.git",
+        "state": {
+          "branch": null,
+          "revision": "5c6df45a731fac91dd03e0dbffbd09fcadf60060",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Swinject",
+        "repositoryURL": "git@github.com:Swinject/Swinject.git",
+        "state": {
+          "branch": null,
+          "revision": "f10b6e9ebff440f985c43008f7c2d097639fcb81",
+          "version": "2.8.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
